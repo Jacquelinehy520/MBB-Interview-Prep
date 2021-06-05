@@ -1,5 +1,5 @@
-# Interactive United States Map made with Raphael.js
-This file contains SVG paths for each of the 50 states in the U.S. Feed this to Raphael to create an interactive map.
+# Interactive United States Map for MBB Interviews Preparation
+This project encode XXX on 50 states, which
 
 [View Demo](http://robflaherty.github.io/us-map-raphael/demo/demo-animated.html) 
 
@@ -9,6 +9,7 @@ This file contains SVG paths for each of the 50 states in the U.S. Feed this to 
 [Raphael](http://raphaeljs.com)
 
 [SVG-to-Raphael Converter Tool](http://toki-woki.net/p/SVG2RaphaelJS/)
+
 
 ## License
 The map coordinates and demo code are both public domain.
